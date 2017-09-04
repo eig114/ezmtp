@@ -1,0 +1,6 @@
+*.class
+*iml
+.idea
+*.jar
+*.war
+hs_err_pid*
